@@ -1,4 +1,4 @@
-// Initial game state
+/*// Initial game state
 let cells = ['', '', '', '', '', '', '', '', ''];
 let currentPlayer = 'X';
 let result = document.querySelector('.result');
@@ -61,4 +61,4 @@ btns.forEach((btn, i) => {
     btn.addEventListener('click', () => ticTacToe(btn, i));
 });
 
-document.querySelector('#reset').addEventListener('click', resetGame);
+document.querySelector('#reset').addEventListener('click', resetGame);*/
